@@ -57,4 +57,4 @@ Users should be able to:
 - Frontend Mentor - [@Smita-14](https://www.frontendmentor.io/profile/Smita-14)
 
 ## Acknowledgments
-A great big thanks to [Frontend Mentor](https://www.frontendmentor.io/challenges]) for setting out challenges. It is the community like this that makes learning fun!
+A great big thanks to [Frontend Mentor](https://www.frontendmentor.io) for setting out challenges. It is the community like this that makes learning fun!
