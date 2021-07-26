@@ -13,7 +13,6 @@ This is a solution to the [3-column preview card component challenge on Frontend
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-
 ## Overview
 
 ### The challenge
@@ -27,18 +26,16 @@ Users should be able to:
 
 ![](./screenshot.jpg)
 
-| Mobile Design | My Solution |
+| **Mobile Design** | **My Solution** |
 | -- | -- |
 | ![Target Mobile design](./design/mobile-design.jpg) | ![My solution to design](./design/mobile-size.jpg) |
 
 
-| Desktop Design |
+| **Desktop Design** |
 | :--: |
 | ![Target desktop design](./design/desktop-design.jpg) |
 | **My Solution** |
 | ![My solution to design](./design/desktop-size.jpg) | 
-
-
 
 ### Links
 
@@ -55,13 +52,9 @@ Users should be able to:
 - BEM architecture
 - Mobile-first workflow
 
-
-
 ## Author
 
 - Frontend Mentor - [@Smita-14](https://www.frontendmentor.io/profile/Smita-14)
 
-
 ## Acknowledgments
-A great big thanks to [Frontend Mentor](https://frontendmentor.io]) for setting out challenges. It is the community like this that makes learning fun! 
-
+A great big thanks to [Frontend Mentor](https://frontendmentor.io]) for setting out challenges. It is the community like this that makes learning fun!
