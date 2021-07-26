@@ -19,13 +19,13 @@
 
 /* typography */
 .attribution { 
-    font-size: 11px; 
     font-family: 'Courier New', Courier, sans-serif;
     text-align: center;
     margin-top: 1rem;
 }
 
 .attribution__text {
+    font-size: 11px;
     color: hsl(220, 4%, 15%);
 }
 
