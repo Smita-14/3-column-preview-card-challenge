@@ -32,16 +32,16 @@ Users should be able to:
 | ![Target Mobile design](./design/mobile-design.jpg) | ![My solution to design](./design/mobile-size.jpg) |
 
 
-| Desktop Design | ![Target desktop design](./design/desktop-design.jpg) |
+<!-- | Desktop Design | ![Target desktop design](./design/desktop-design.jpg) |
 | :--: | -- |
-| **My Solution** | ![My solution to design](./design/desktop-size.jpg) | 
+| **My Solution** | ![My solution to design](./design/desktop-size.jpg) |  -->
 
 
-<!-- | Desktop Design |
+| Desktop Design |
 | :--: |
 | ![Target desktop design](./design/desktop-design.jpg) |
 | **My Solution** |
-| ![My solution to design](./design/desktop-size.jpg) |  -->
+| ![My solution to design](./design/desktop-size.jpg) | 
 
 
 
