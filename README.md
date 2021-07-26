@@ -40,7 +40,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution on FrontendMentor.io](https://www.frontendmentor.io/solutions/mobilefirst-responsive-site-using-bem-and-css-flexbox-pq6eqwzdM)
-- Live Site URL: [Live site on github pages](https://smita-14.github.io/3-column-preview-card-challenge/)
+- Live Site URL: [Live site preview](https://smita-14.github.io/3-column-preview-card-challenge/)
 
 ## My process
 
@@ -57,4 +57,4 @@ Users should be able to:
 - Frontend Mentor - [@Smita-14](https://www.frontendmentor.io/profile/Smita-14)
 
 ## Acknowledgments
-A great big thanks to [Frontend Mentor](https://www.frontendmentor.io]) for setting out challenges. It is the community like this that makes learning fun!
+A great big thanks to [Frontend Mentor](https://www.frontendmentor.io/challenges]) for setting out challenges. It is the community like this that makes learning fun!
